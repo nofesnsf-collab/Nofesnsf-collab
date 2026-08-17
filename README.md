@@ -46,6 +46,7 @@
 | [blog-platform](https://github.com/nofesnsf-collab/blog-platform) | Full-stack blog app with Django, user auth & article management | Python, Django |
 | [email-validator-pro](https://github.com/nofesnsf-collab/email-validator-pro) | Email validator with regex, SMTP & MX record checks | Python |
 | [review-scraper-pro](https://github.com/nofesnsf-collab/review-scraper-pro) | Advanced product review scraper — CSV/Excel/JSON export | Python |
+| [GGG-rent1](https://github.com/nofesnsf-collab/GGG-rent1) | Car rental management app with rental tracking, notifications & booking workflow | Python, Django, PostgreSQL 
 
 
 ## 📫 Contact
